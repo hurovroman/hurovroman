@@ -8,7 +8,7 @@
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
-- 📫 How to reach me **yablinchukvasyl@ukr.net**
+- 📫 How to reach me **hurovroman88@outlook.com**
 
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
