@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/08c7900c-45c2-4610-9592-c0588db79686)![image](https://github.com/user-attachments/assets/0ccd7e11-24cd-4228-8726-24af432b5581)<h1 align="center">Senior Full Stack Engineer</h1>
+<h1 align="center">Senior Full Stack Engineer</h1>
 <h3 align="center">Experienced web/mobile full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukpoex&label=Profile%20views&color=0e75b6&style=flat" alt="lukpoex" /> </p>
